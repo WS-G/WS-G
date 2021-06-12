@@ -2,6 +2,6 @@
 - 👀 I’m interested in Hacking |CTFs
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on pretty much anything lol
-- 📫 How to reach me: wsgportfolio84@gmail.com
+- 📫 How to reach me: wsgsec@protonmail.com
 
 
