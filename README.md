@@ -10,7 +10,7 @@
 - Finish the Network+ and Security+ 
 - Complete and get certified in the OSCP by Offensive Security
 - Work on a portfolio of Python projects geared towards infosec
-- Start exploring some: Blueteam stuff | Malware analysis | Malware Development   
+- Start exploring some: Blueteam stuff | Malware analysis | Exploit Development    
 - Become more adept in using Github and Devops in general 
 - Get a job in CyberSecurity 
 - Brush up on my hmtl/css/js 
