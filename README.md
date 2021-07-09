@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WS-G
 - 👀 I’m interested in all things Cybersecurity 
-- 🌱 I’m currently learning on Tryhackme| Hackthebox | Udemy & FreeeCodeCamp for Pyhton/programming in general  
+- 🌱 I’m currently learning on Tryhackme| Hackthebox | Udemy & FreeCodeCamp for Pyhton/programming in general  
 - 💞️ I’m looking to collaborate on Python | CTFs | Github projects | Bugbounties (not there yet but soon!!) 
 - 📫 How to reach me: @WsgSec on Twitter !! 
 
