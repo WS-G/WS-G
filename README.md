@@ -5,9 +5,8 @@
 - 📫 How to reach me: @WsgSec on Twitter !! 
 
 ### My Goals for this year 
-
-- Sitting my Core 2 exam for the CompTIA A+ after passing my core 1 
-- Finish the Network+ and Security+ 
+ 
+- Finish the Security+ 
 - Complete and get certified in the OSCP by Offensive Security
 - Work on a portfolio of Python projects geared towards infosec
 - Start exploring some: Blueteam stuff | Malware analysis | Exploit Development    
